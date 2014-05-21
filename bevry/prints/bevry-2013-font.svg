@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="742px" height="346px" viewBox="0 0 742 346" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+<svg width="715px" height="317px" viewBox="0 0 715 317" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
     <!-- Generator: Sketch 3.0.2 (7799) - http://www.bohemiancoding.com/sketch -->
-    <title>2013</title>
+    <title>bevry-2013-font</title>
     <description>Created with Sketch.</description>
     <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
@@ -9,7 +9,7 @@
             <tspan x="0" y="216">Bevry</tspan>
         </text>
         <text id="open-collaboration" sketch:type="MSTextLayer" font-family="Myriad Pro" font-size="64" font-weight="normal" letter-spacing="-7.30156913e-08" fill="#666666">
-            <tspan x="19" y="277">open-collaboration</tspan>
+            <tspan x="19" y="284">open-collaboration</tspan>
         </text>
     </g>
 </svg>
